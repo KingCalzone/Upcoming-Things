@@ -2,12 +2,12 @@
 Things i am working on/planning to release soon will be posted here!
 
 ---
-# Automated PPPwn v1.7.1
+# Automated PPPwn v1.7.1 (experimental)
 + Dark Theme (FINALLY).
-+ *Hopefully* some fixes for windows 7 users.
-+ Automatic disconnect and reconnect ethernet on failure.
-+ May include a jb starter pack.
-
++ *Hopefully* some detection fixes for windows 7 users.
++ Automatic disable and re-enable ethernet connection on failure.
++ Maybe more...
+  
 ---
 # Plethora of rgh stuff for skids
 + Maybe one of my tools.

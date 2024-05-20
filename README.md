@@ -9,7 +9,7 @@ Things i am working on/planning to release soon will be posted here!
 + Maybe more...
   
 ---
-# Plethora of rgh stuff for new devs or skids
+# Plethora of rgh stuff for devs or skids
 + Maybe one of my tools.
 + Lots of resources to **LEARN**.
 + Big funny moments and the consequences of actions.
